@@ -1,5 +1,3 @@
-# Alura_Visualizacao_de_dados_comparacao_e_distribuicao
-
 # 📊 Data Visualization: Comparison & Distribution Charts
 
 Projeto desenvolvido durante meus estudos de Visualização de Dados com foco em gráficos de comparação e distribuição utilizando Python e bibliotecas do ecossistema de Data Science.
